@@ -12,6 +12,10 @@ export default function TheHeader() {
         {" "}
         <p>Add Post</p>
       </Link>
+      <Link to="/login">
+        {" "}
+        <p>Login</p>
+      </Link>
     </header>
   );
 }
